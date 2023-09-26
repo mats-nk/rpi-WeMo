@@ -27,7 +27,7 @@ alexa-raspberry wemo-devices.json
 
 ## 1.1 Install service
 
-See section [**4.2 Start at Boot**](42-start-at-boot).
+See section [**4.2 Start at Boot**](#42-start-at-boot).
 
 ## 2 Set your LED's
 Here are the schematics that I used to set my one.
