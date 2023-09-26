@@ -32,19 +32,19 @@ See section [**4.2 Start at Boot**](#42-start-at-boot).
 ## 2 Set your LED's
 Here are the schematics that I used to set my one.
 
-![Alt text](pics/rpi-WeMo_v2.png?raw=true "Raspberry Connections 1")
-
+<img src="pics/rpi-WeMo_v2.png" width="400">
+ 
 The GPIO's that I'm using is:
 
-  **17** Yellow LED
+**17** Yellow LED
 
-  **18** Blue LED
+**18** Blue LED
 
-  **22** Red LED
+**22** Red LED
 
-  **23** Green LED
+**23** Green LED
 
-![Alt text](pics/GPIO_pins_output.png?raw=true "Raspberry Connections 2")
+<img src="pics/GPIO_pins_output.png" width="400">
 
 ## 3 Customizing
 
